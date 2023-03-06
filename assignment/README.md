@@ -29,7 +29,7 @@ Zia Oh
 
 ## Coding with using the LED strap
 
-![invader image](6.jpg)
+![invader image](5.jpg)
 
 ## final Mock
 
