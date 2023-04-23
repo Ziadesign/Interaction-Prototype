@@ -22,14 +22,10 @@ Zia Oh
 
 ![invader image](Cardsprovided.png)
 
-## Laser lab cut utilizing acrylic marterial
+## Laser lab cut utilizing wood marterial
 
 ![invader image](lasercut.png)
 
-## Attaching the surface parts
-
-![invader image](9.jpg)
-![invader image](1.jpg)
 
 ## IFTT Applet
 
